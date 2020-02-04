@@ -19,6 +19,14 @@ https://bandit.swanhack.co.uk/api/register
 ```
 This returns your API key. Keep it safe, you only get it once!
 
+## Challenges
+- Get registered.
+- Start a game.
+- Finish a game.
+- Calculate your "regret" (see the wikipedia page.)
+- Try implementing epsilon-first or epsilon-greedy.
+- Try playing multiple games at once!
+
 --------------
 
 Create a new game:
