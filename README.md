@@ -31,7 +31,7 @@ This creates a new game and returns the game ID and game information.
 
 --------------
 
-Pull a lever:
+Get game information:
 
 https://bandit.swanhack.co.uk/api/game/ `<GAME_ID>`
 ```json
