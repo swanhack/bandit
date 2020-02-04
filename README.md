@@ -10,6 +10,14 @@ A game has 100 turns, 100 bandits. Each bandit has a different probability of re
 
 Tip: try looking up "multi-armed bandit strategies". See how high a score you can get!
 
+## Challenges
+- Get registered.
+- Start a game.
+- Finish a game.
+- Calculate your "regret" (see the wikipedia page.)
+- Try implementing epsilon-first or epsilon-greedy.
+- Try playing multiple games at once!
+
 ## API Information
 Register as a user:
 
@@ -18,14 +26,6 @@ https://bandit.swanhack.co.uk/api/register
 {"auth": "<STUDENT_ID>", "nick": "<YOUR_NICKNAME>"}
 ```
 This returns your API key. Keep it safe, you only get it once!
-
-## Challenges
-- Get registered.
-- Start a game.
-- Finish a game.
-- Calculate your "regret" (see the wikipedia page.)
-- Try implementing epsilon-first or epsilon-greedy.
-- Try playing multiple games at once!
 
 --------------
 
