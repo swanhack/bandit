@@ -33,7 +33,7 @@ This creates a new game and returns the game ID and game information.
 
 Pull a lever:
 
-https://bandit.swanhack.co.uk/api/ `<GAME_ID>`
+https://bandit.swanhack.co.uk/api/game/ `<GAME_ID>`
 ```json
 {"reg": "<YOUR_API_KEY>"}
 ```
@@ -43,7 +43,7 @@ This returns the game information.
 
 Pull a lever:
 
-https://bandit.swanhack.co.uk/api/ `<GAME_ID>`/`<LEVER_ID>`
+https://bandit.swanhack.co.uk/api/game/ `<GAME_ID>`/`<LEVER_ID>`
 ```json
 {"reg": "<YOUR_API_KEY>"}
 ```
