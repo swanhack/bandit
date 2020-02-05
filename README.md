@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Multi-armed_bandit
 ![](https://swanhack.co.uk/images/slot_machines.jpg)
 
 ## Game Information
-A game has 100 turns, 100 bandits. Each bandit has a different probability of reward (between 0 and 100 per cent), and the reward itself is randomly chosen between 0 and the ceiling value decided at game creation time, if you win.
+A game has 100 turns, 100 bandits. Each bandit (or lever) has a different probability of granting a reward (between 0 and 100 per cent). The reward for each bandit (or lever) is static, and chosen at game creation time.
 
 Tip: try looking up "multi-armed bandit strategies". See how high a score you can get!
 
